@@ -1,0 +1,22 @@
+{
+    "fullName": {
+        "title": "الاسم",
+        "icon": "fa-solid fa-user",
+        "content": "عبدالملك"
+    },
+    "maritalStatus": {
+        "title": "الحالة الاجتماعية",
+        "icon": "fa-solid fa-heart",    
+        "content": "عازب"
+    },
+    "myBirthday": {
+        "title": "تاريخ الميلاد",
+        "icon": "fa-solid fa-cake-candles",
+        "content": "15-1-1998"
+    },
+    "nationality": {
+        "title": "الجنسية",
+        "icon": "fa-solid fa-flag",
+        "content": "يمني"
+    }
+}

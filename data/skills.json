@@ -1,0 +1,43 @@
+{
+    "skill1":{
+        "title":"ادوبي فوتوشوب",
+        "percent":"70%",
+        "color":"#e749a0"
+    },
+    "skill2":{
+        "title":"ادوبي الستريتر",
+        "percent":"80%",
+        "color":"#87bdf4"
+    },
+    "skill3":{
+        "title":"html ",
+        "percent":"90%",
+        "color":"#f4a950"
+    },
+    "skill4":{
+        "title":"css",
+        "percent":"75%",
+        "color":"#8dd352"
+    },
+    "skill5":{
+        "title":"bootstrap",
+        "percent":"95%",
+        "color":"#000000"
+    },
+    "skill6":{
+        "title":" JavaScript",
+        "percent":"60%",
+        "color":"#f75eee"
+    },
+    "skill7":{
+        "title":"php",
+        "percent":"75%",
+        "color":"#009fdc"
+    },
+    "skill8":{
+        "title":" laravel",
+        "percent":"90%",
+        "color":"#f8874f"
+    }
+
+}
